@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Basavaraja K J</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![An image of @basavarajakjbasuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/basavarajakjbasuu)](https://holopin.io/@basavarajakjbasuu)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajakjbasuu&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajakjbasuu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basavarajakjbasuu" alt="basavarajakjbasuu" /></a> </p>
