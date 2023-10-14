@@ -10,7 +10,7 @@ Front End Developer | Open-Source Contributor 👨‍💻
 
 I am a quick learner and a team player, always seeking to enhance my skills and contribute to the success of a project.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India 🇮🇳
 * ✉️  You can contact me at [https://basavaraja.vercel.app/](mailto:https://basavaraja.vercel.app/)
 * 🚀  I'm currently working on [Pixstock](http://github.com/Basavarajakjbasuu/pixastock)
 * 🧠  I'm learning Next Js
