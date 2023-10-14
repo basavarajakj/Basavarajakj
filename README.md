@@ -1,8 +1,8 @@
 
 
-# Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> My name is Basavaraja K J
+<h1 align="center"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> My name is Basavaraja K J</h1>
 
-## Front End Developer :man_technologist: | Open-Source Contributor :octocat:
+<h2 align="center"> Front End Developer :man_technologist: | Open-Source Contributor :octocat: </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajakjbasuu&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajakjbasuu" /> </p>
 
@@ -96,10 +96,12 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basavarajakjbasuu&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>&nbsp;
 
+  <br />
+
 <!--   <a href="http://www.github.com/Basavarajakjbasuu">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Basavarajakjbasuu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> -->
 <!--   </a>&nbsp; -->
-
+<br />
   <a href="https://github.com/Basavarajakjbasuu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basavarajakjbasuu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
