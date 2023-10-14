@@ -1,9 +1,8 @@
 
 
-<h1 align="center" style="text-decoration: none;">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> My name is Basavaraja K J</h1>
+# Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> My name is Basavaraja K J
 
-
-<h2 align="center" style="text-decoration: none;">Front End Developer :man_technologist: | Open-Source Contributor :octocat:</h2>
+## Front End Developer :man_technologist: | Open-Source Contributor :octocat:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajakjbasuu&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajakjbasuu" /> </p>
 
