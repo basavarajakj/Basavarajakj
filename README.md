@@ -18,7 +18,7 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Basavarajakjbasuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Skills
+## 🦾 Skills
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -74,7 +74,7 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 </div>
 
-### Socials
+## 👨🏽‍🤝‍👨🏾 Socials
 
 <div align="left">
   <a href="https://www.github.com/Basavarajakjbasuu" target="_blank" rel="noreferrer">
@@ -93,6 +93,7 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
   </a>
 </div>
 
+## 📈 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basavarajakjbasuu&theme=dark&hide_border=false&include_all_commits=false&count_private=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Basavarajakjbasuu&theme=dark&hide_border=false) |
 |:---:|:---:|
