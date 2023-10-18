@@ -1,12 +1,9 @@
-
-
 <h1 align="center"> Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36" alt="Waving Hand Emoji"> My name is Basavaraja K J</h1>
 
 <h2 align="center"> Front End Developer :man_technologist: | Open-Source Contributor :octocat: </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajakjbasuu&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajakjbasuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basavarajakjbasuu" alt="basavarajakjbasuu" /></a> </p>
 
 I am a quick learner and a team player, always seeking to enhance my skills and contribute to the success of a project.
 <br/>
@@ -15,6 +12,11 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
 * 🚀 I'm currently working on [Pixstock](http://github.com/Basavarajakjbasuu/pixastock)
 * 🧠 I'm learning Next.js
 * 🤝 I'm open to collaborating on React.js projects
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Basavarajakjbasuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Skills
 
@@ -85,24 +87,11 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
 </div>
 
 
-<b>My GitHub Stats</b>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basavarajakjbasuu&theme=dark&hide_border=false&include_all_commits=false&count_private=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Basavarajakjbasuu&theme=dark&hide_border=false) |
+|:---:|:---:|
+| ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Basavarajakjbasuu&limit=5&theme=dark&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basavarajakjbasuu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
 
-<div align="center">
-  <a href="http://www.github.com/Basavarajakjbasuu">
-    <img src="https://github-readme-stats.vercel.app/api?username=Basavarajakjbasuu&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Basavarajakjbasuu's GitHub stats" />
-  </a>&nbsp;
 
-  <a href="http://www.github.com/Basavarajakjbasuu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basavarajakjbasuu&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>&nbsp;
 
-  <br />
 
-<!--   <a href="http://www.github.com/Basavarajakjbasuu">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Basavarajakjbasuu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> -->
-<!--   </a>&nbsp; -->
-<br />
-  <a href="https://github.com/Basavarajakjbasuu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basavarajakjbasuu&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
+
