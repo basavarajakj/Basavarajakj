@@ -2,7 +2,7 @@
 
 <h2 align="center"> Front End Developer :man_technologist: | Open-Source Contributor :octocat: </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajakjbasuu&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajakjbasuu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajakj&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajakj" /> </p>
 
 [![An image of @basavarajakjbasuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/basavarajakjbasuu)](https://holopin.io/@basavarajakjbasuu)
 
@@ -10,14 +10,14 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
 <br/>
 * 🌍 A passionate frontend developer from India 🇮🇳
 * ✉️ You can contact me at [basavaraja.vercel.app](mailto:https://basavaraja.vercel.app/)
-* 🚀 I'm currently working on [Pixstock](http://github.com/Basavarajakjbasuu/pixastock)
+* 🚀 I'm currently working on [Pixstock](http://github.com/Basavarajakj/pixastock)
 * 🧠 I'm learning Next.js
 * 🤝 I'm open to collaborating on React.js projects
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Basavarajakjbasuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=basavarajakj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🦾 Skills
 
@@ -96,15 +96,22 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
 
 ## 📈 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basavarajakjbasuu&theme=dark&hide_border=false&include_all_commits=false&count_private=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Basavarajakjbasuu&theme=dark&hide_border=false) |
+|<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basavarajakj&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basavarajakj&theme=dark" height="180em" /> |
 |:---:|:---:|
-| ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Basavarajakjbasuu&limit=5&theme=dark&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basavarajakjbasuu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
+|<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basavarajakj&theme=dark" height="180em" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basavarajakj&theme=dark" height="180em" /> |
+| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=basavarajakj&theme=dark&hide_border=false) | ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=basavarajakj&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+|<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basavarajakj&theme=dark" height="180em" /> | <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajakj&layout=compact&theme=dark" alt="basavarajakj" />|
+
+
+
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=basavarajakj&theme=react"/>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/basavarajakj/basavarajakj/output/snake.svg" alt="Snake animation" />
 
 ###
 
