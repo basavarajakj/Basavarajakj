@@ -2,7 +2,11 @@
 
 <h2 align="center"> Front End Developer :man_technologist: | Open-Source Contributor :octocat: </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basavarajakj&label=Profile%20views&color=0e75b6&style=flat" alt="basavarajakj" /> </p>
+<div align="left">
+  <img src="https://profile-counter.glitch.me/basavarajakj/count.svg?"  />
+</div>
+
+###
 
 [![An image of @basavarajakjbasuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/basavarajakjbasuu)](https://holopin.io/@basavarajakjbasuu)
 
