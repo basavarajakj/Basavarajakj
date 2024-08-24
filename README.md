@@ -13,7 +13,7 @@
 I am a quick learner and a team player, always seeking to enhance my skills and contribute to the success of a project.
 <br/>
 * 🌍 A passionate frontend developer from India 🇮🇳
-* ✉️ You can contact me at [basavaraja.vercel.app](mailto:https://basavaraja.vercel.app/)
+* ✉️ You can contact me at [basavaraja.vercel.app](https://basavaraja.vercel.app/)
 * 🚀 I'm currently working on [Pixstock](http://github.com/Basavarajakj/pixastock)
 * 🧠 I'm learning Next.js
 * 🤝 I'm open to collaborating on React.js projects
