@@ -108,15 +108,18 @@ I am a quick learner and a team player, always seeking to enhance my skills and 
 
 
 
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=basavarajakj&theme=react"/>
+<h2 align="left">⚡Activity Graph</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=basavarajakj&theme=github"/>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/basavarajakj/basavarajakj/output/snake.svg" alt="Snake animation" />
-
+<h2>Snake🐍 eating my contributions</h2>
+<p align="center">
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/basavarajakj/basavarajakj/output/github-contribution-grid-snake.svg" />
+</p>
+  
 ###
 
 
