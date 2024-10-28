@@ -7,7 +7,6 @@
 </div>
 
 ###
-
 [![An image of @basavarajakjbasuu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/basavarajakjbasuu)](https://holopin.io/@basavarajakjbasuu)
 
 I am a quick learner and a team player, always seeking to enhance my skills and contribute to the success of a project.
