@@ -3,7 +3,7 @@
 <h2 align="center"> Front End Developer :man_technologist: | Open-Source Contributor :octocat: </h2>
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/basavarajakj/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=basavarajakj"  />
 </div>
 
 ###
